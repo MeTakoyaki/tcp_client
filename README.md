@@ -11,7 +11,7 @@ Pertama kita membuat objek soket dengan parameter ```AF_INET``` dan ```SOCK_STRE
 
 ![Screenshoot](img-asset/01.png)
 
-Parameter AF_INET menunjukkan bahwa kita akan menggunakan alamat IPv4 atau nama host standar, dan SOCK_STREAM menunjukkan bahwa ini akan menjadi klien TCP. Kemudian kita menghubungkan klien ke server  
+Parameter ```AF_INET``` menunjukkan bahwa kita akan menggunakan alamat IPv4 atau nama host standar, dan `SOCK_STREAM` menunjukkan bahwa ini akan menjadi klien TCP. Kemudian kita menghubungkan klien ke server  
 
 ![Screenshoot](img-asset/02.png)
 
