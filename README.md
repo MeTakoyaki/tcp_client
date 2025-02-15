@@ -15,7 +15,7 @@ Parameter AF_INET menunjukkan bahwa kita akan menggunakan alamat IPv4 atau nama 
 
 ![Screenshoot](img-asset/02.png)
 
-dan mengirimkannya beberapa data sebagai byte 3. 
+dan mengirimkannya beberapa data sebagai byte. 
 
 ![Screenshoot](img-asset/03.png)
 
