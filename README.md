@@ -3,7 +3,7 @@ simple python based TCP client
 
 ## Penjelasan : 
 
-![Screenshoot] (img-asset/code-screenshoot.png)
+![Screenshoot](img-asset/code-screenshoot.png)
 
 Countless times during penetration tests, we (the authors) have
 needed to whip up a TCP client to test for services, send garbage
