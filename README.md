@@ -19,7 +19,7 @@ dan mengirimkannya beberapa data sebagai byte 3.
 
 ![Screenshoot](img-asset/03.png)
 
-Langkah terakhir adalah menerima kembali beberapa data dan mencetak respons 4  
+Langkah terakhir adalah menerima kembali beberapa data dan mencetak respons 
 
 ![Screenshoot](img-asset/04.png)
 
