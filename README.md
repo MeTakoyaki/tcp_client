@@ -7,7 +7,7 @@ Berkali-kali selama uji penetrasi, kami perlu menyiapkan klien TCP untuk menguji
 
 ![Screenshoot](img-asset/code-screenshoot.png)
 
-Pertama kita membuat objek soket dengan parameter AF_INET dan SOCK_STREAM. 
+Pertama kita membuat objek soket dengan parameter ```AF_INET``` dan ```SOCK_STREAM```. 
 
 ![Screenshoot](img-asset/01.png)
 
