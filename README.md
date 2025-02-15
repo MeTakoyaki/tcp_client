@@ -1,6 +1,10 @@
 # Server TCP  
 simple python based TCP client
 
+## Penjelasan : 
+
+![screenshoot] (img-asset/code-screenshoo.png)  
+
 Countless times during penetration tests, we (the authors) have
 needed to whip up a TCP client to test for services, send garbage
 data, fuzz, or perform any number of other tasks. If you are working
