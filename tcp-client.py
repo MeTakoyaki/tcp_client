@@ -1,6 +1,6 @@
 import socket
 
-target_host="192.168.1.10"
+target_host="0.0.0.0"
 target_port= 9998
 
 #membuat objek soket
